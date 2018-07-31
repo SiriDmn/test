@@ -1,2 +1,4 @@
-public static void Main(String [] args) { System.out.println("hello");
+public static void Main(String [] args) { 
+Home home = new Home();
+Menu menu = new Menu();
 }
